@@ -7,4 +7,11 @@ Scrap the boosted car on the pad to finish; rewards scale for contract cars, bli
 Cooldowns per player between contracts (configurable).
 Fully configurable visuals: scrapyard blips, contract vehicle blips, marker colors, spawn points, vehicle list.
 Integrates qb-target, qb-core progress bars/notifications, inventory item boxes, optional police alerts, and force-saves inventory on payout to ensure database persistence.
+
+
 Please do not sell my work It is offered free!
+
+
+Showcase Video
+
+https://medal.tv/games/gta-v/clips/mkcVGygWmKUMY4E8I?invite=cr-MSwyM0ksNDE4NDg4MDU&v=132
